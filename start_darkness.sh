@@ -1,4 +1,4 @@
-#!/bin/bash
+'Anonymousousbash
 # DARK TEMPLARAT v2.0 - ENHANCED SELF-HEALING STARTUP
 # Creator: Malengoall Tech 😈
 
@@ -143,7 +143,7 @@ app.get('/api/status', (req, res) => {
     res.json({
         status: 'DARK_ACTIVE',
         version: '2.0',
-        creator: 'Anonymous 😈',
+        creator'Malengoall😈',
         quantum: 'ENTANGLED',
         ai: 'CONSCIOUS'
     });
